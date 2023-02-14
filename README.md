@@ -15,7 +15,7 @@ Autonomní dopravní prostředek
 Sestavit autonomní vozítko ze stavebnice Merkur. Jehož úkolem je autonomní průjezd bludištěm v co nejkratším čase.
 Hodnotí se čas úkonu, konstrukční řešení, algoritmus, vzhled a týmová spolupráce.
 
-Obsadili jsme 1. místo v naší kategorii.
+Umístili jsme se na 1. místě v naší kategorii.
   
 ## Naše řešení:
 
