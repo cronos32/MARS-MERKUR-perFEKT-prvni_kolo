@@ -4,13 +4,18 @@
 
 ![MARSLOGO2](https://user-images.githubusercontent.com/101503581/214957002-a75f8f91-1d16-4b58-8018-33c0e8f26aec.png)
 
-Superfinále proběhlo 26.1.2023
+Superfinále proběhlo 24.11.2022
 
 https://www.fekt.vut.cz/merkur/
 
 ### Zadání
-Vytvořit ze stavebnice Merkur autonomní vozítko, které objede dokola překážku ve tvaru válce a následně se vrátí na start.
-Hodnotí se čas úkonu, konstrukční řešení, algoritmus, vzhled, týmová spolupráce a připojení dalších přídavných komponent.
+
+Autonomní dopravní prostředek
+
+Sestavit autonomní vozítko ze stavebnice Merkur. Jehož úkolem je autonomní průjezd bludištěm v co nejkratším čase.
+Hodnotí se čas úkonu, konstrukční řešení, algoritmus, vzhled a týmová spolupráce.
+
+Obsadili jsme 1. místo v naší kategorii.
   
 ## Naše řešení:
 
@@ -24,9 +29,5 @@ Hodnotí se čas úkonu, konstrukční řešení, algoritmus, vzhled, týmová s
   - Deek-Robot Motor Shield
   - 6 x AA baterie (v sériovém zapojení tj. 9V)
   - motory DC
-  - piezo buzzer
-  - oled displej 128*32
   - spínač
-  - IR senzor
-  - LED semafor
   - propojky
